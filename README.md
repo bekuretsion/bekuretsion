@@ -1,9 +1,9 @@
 # Hi there, I'm Bekuretsion! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in various technologies and fields. Here you'll find a collection of my projects, contributions, and more. Take a look around and feel free to reach out!
+Welcome to my GitHub profile! I'm a passionate turn data into value with interests in various technologies and fields. Here you'll find a collection of my projects, contributions, and more. Take a look around and feel free to reach out!
 
 ## 🔭 What I'm Currently Working On
-- [Project 1](https://github.com/bekuretsion/project1): A brief description of Project 1.
+-SMART RX-AI System (https://github.com/bekuretsion/project1): A brief description of Project 1.
 - [Project 2](https://github.com/bekuretsion/project2): A brief description of Project 2.
 - Exploring new technologies and working on innovative solutions.
 
