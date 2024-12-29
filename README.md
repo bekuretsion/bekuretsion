@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I'm a passionate turn data into value with interes
 - Exploring the world of [Field/Topic]
 
 ## 👯 Looking to Collaborate On
-- Open-source projects in [Field/Technology]
+- Open-source projects in Linux.
 - Innovative and impactful solutions
 - Learning and sharing knowledge with the community
 
 ## 💬 Ask Me About
-- [Technology/Topic 1]
-- [Technology/Topic 2]
+- Python
+- SQL
 - Any interesting project or idea you have!
 
 ## 📫 How to Reach Me
@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm a passionate turn data into value with interes
 ![Bekuretsion's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bekuretsion&theme=dracula)
 
 ## 🔗 Links
-- [Portfolio/Website](https://yourwebsite.com)
-- [Blog](https://yourblog.com)
+- [Portfolio/Website](https://portifolio-bekure.netlify.app/)
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Have a great day! 😊
