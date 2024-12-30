@@ -32,10 +32,11 @@ To support this transition, I have earned certifications such as the Data Python
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  - ![SQL](https://img.shields.io/badge/-SQL-61DAFB?style=flat-square&logo=react&logoColor=black)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=git&logoColor=white)
   - ![Kafka](https://img.shields.io/badge/-kafka-F05032?style=flat-square&logo=git&logoColor=white)
   - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-F05032?style=flat-square&logo=git&logoColor=white)
 
