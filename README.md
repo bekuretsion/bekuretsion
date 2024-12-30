@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about turning data into value and e
 To support this transition, I have earned certifications such as the Data Python Associate from DataCamp and professional certificates in Data Science and Data Analytics Career Tracks,Data Engineer in SQL also from DataCamp. Here on my GitHub, you’ll find a collection of my projects, contributions, and learning journeys in data science, analytics, and beyond. I’m always eager to collaborate and learn, so feel free to explore my work and reach out—I’d love to connect!
 
 ## 🔭 What I'm Currently Working On
--[SMART RX-AI System](https://github.com/bekuretsion/SmartRx-AI-System ) - an advanced AI-powered system designed to recommend personalized medicine and assist in healthcare decision-making.
+- [SMART RX-AI System](https://github.com/bekuretsion/SmartRx-AI-System ) - an advanced AI-powered system designed to recommend personalized medicine and assist in healthcare decision-making.
 - Exploring new technologies and working on innovative solutions.
 
 ## 🌱 What I'm Learning
