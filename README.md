@@ -1,16 +1,17 @@
 # Hi there, I'm Bekuretsion! 👋
 
-Welcome to my GitHub profile! I'm a passionate turn data into value with interests in various technologies and fields. Here you'll find a collection of my projects, contributions, and more. Take a look around and feel free to reach out!
+Welcome to my GitHub profile! I'm passionate about turning data into value and exploring the endless possibilities of technology. I have a Bachelor's Degree in Electronics and Communication Engineering and over four years of professional experience as a System Engineer in a media company and a Software Developer in healthcare IT company's. Currently, I am transitioning into the data world, where I aim to harness the power of data to drive impactful insights and solutions.
+
+To support this transition, I have earned certifications such as the Data Python Associate from DataCamp and professional certificates in Data Science and Data Analytics Career Tracks,Data Engineer in SQL also from DataCamp. Here on my GitHub, you’ll find a collection of my projects, contributions, and learning journeys in data science, analytics, and beyond. I’m always eager to collaborate and learn, so feel free to explore my work and reach out—I’d love to connect!
 
 ## 🔭 What I'm Currently Working On
--SMART RX-AI System (https://github.com/bekuretsion/project1): A brief description of Project 1.
-- [Project 2](https://github.com/bekuretsion/project2): A brief description of Project 2.
+-[SMART RX-AI System](https://github.com/bekuretsion/SmartRx-AI-System ) - an advanced AI-powered system designed to recommend personalized medicine and assist in healthcare decision-making.
 - Exploring new technologies and working on innovative solutions.
 
 ## 🌱 What I'm Learning
-- Improving my skills in [Technology 1]
-- Diving into [Technology 2]
-- Exploring the world of [Field/Topic]
+- Diving into Data Track through [MIT emerging Talent Certificate in Computer Science and Data science](https://emergingtalent.mit.edu/)
+- Improving my skills in ML.
+- Exploring the world of PowerBI
 
 ## 👯 Looking to Collaborate On
 - Open-source projects in Linux.
@@ -23,22 +24,20 @@ Welcome to my GitHub profile! I'm a passionate turn data into value with interes
 - Any interesting project or idea you have!
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-
-## ⚡ Fun Fact
-- Share a fun fact about yourself or your work!
+- Email: [bekuretsion222@gmail.com](mailto:bekuretsion222@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](lnkedin.com/in/bekure-g-t-65660ba4/)
 
 ## 🛠️ Languages and Tools
-- List of languages and tools you frequently use:
+- List of languages and tools I frequently use:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - [Add more as needed]
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![Kafka](https://img.shields.io/badge/-kafka-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Bekuretsion's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekuretsion&show_icons=true&theme=radical)
