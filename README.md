@@ -9,7 +9,7 @@ To support this transition, I have earned certifications such as the Data Python
 - Exploring new technologies and working on innovative solutions.
 
 ## 🌱 What I'm Learning
-- Diving into Data Track through [MIT emerging Talent Certificate in Computer Science and Data science](https://emergingtalent.mit.edu/)
+- Diving into Data Track
 - Improving my skills in ML.
 - Exploring the world of PowerBI
 
