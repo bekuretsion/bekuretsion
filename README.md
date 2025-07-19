@@ -25,8 +25,6 @@ To support this transition, I have earned certifications such as the Data Python
 
 ## 📫 How to Reach Me
 - Email: [bekuretsion222@gmail.com](mailto:bekuretsion222@gmail.com)
-- LinkedIn: [Bekure G.Tadios](lnkedin.com/in/bekure-g-t-65660ba4/)
-
 ## 🛠️ Languages and Tools
 - List of languages and tools I frequently use:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
