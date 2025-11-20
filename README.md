@@ -37,12 +37,10 @@ To support this transition, I have earned certifications such as the Data Python
   - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=git&logoColor=white)
   - ![Kafka](https://img.shields.io/badge/-kafka-F05032?style=flat-square&logo=git&logoColor=white)
   - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-kafka-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Bekuretsion's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekuretsion&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Bekuretsion's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bekuretsion&theme=dracula)
 
 ## 🔗 Links
 - [Portfolio/Website](https://portifolio-bekure.netlify.app/)
