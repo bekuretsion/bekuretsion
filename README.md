@@ -46,6 +46,6 @@ To support this transition, I have earned certifications such as the Data Python
 
 ## 🔗 Links
 - [Portfolio/Website](https://portifolio-bekure.netlify.app/)
-- [Mygame]](https://ninjafruiteslicer.netlify.app/)/)
+- [My-game]](https://ninjafruiteslicer.netlify.app/)
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Have a great day! 😊
